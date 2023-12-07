@@ -48,10 +48,10 @@ The following image shows the web application's appearance and functionality:
    * http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
    
 
-   # Technologies used
+   ### Technologies used
      HTML CSS
 
-  # [Link to deployed application]()
-  # [Link to the code repository](https://github.com/SHERPA-CODING/Horiseon-Refactor.git)
+  ### [Link to deployed application]()
+  ### [Link to the code repository](https://github.com/SHERPA-CODING/Horiseon-Refactor.git)
 
 
