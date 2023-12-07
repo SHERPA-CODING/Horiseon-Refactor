@@ -51,6 +51,7 @@ The following image shows the web application's appearance and functionality:
    # Technologies used
      HTML CSS
 
-  # Link to deployed application
+  # [Link to deployed application]()
+  # [Link to the code repository](https://github.com/SHERPA-CODING/Horiseon-Refactor.git)
 
 
